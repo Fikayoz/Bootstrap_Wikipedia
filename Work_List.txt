@@ -1,0 +1,35 @@
+Tasks:
+
+- Use Bootstrap "class="nav nav-tabs nav-justified" to make the wikipedia top
+    - This consists of " Read, View Source, View history, and then search
+
+
+
+
+
+
+
+
+
+
+Stock Latin Text: 
+
+ <!--Lorem ipsum dolor sit amet, eum veri lorem aperiri et, at sed labore dictas assueverit. Cu porro maiorum quo, at etiam everti mei, ius tempor populo an. His ad graece adipiscing neglegentur, quando volutpat sapientem ne duo. Nam in salutandi incorrupte. Summo euripidis mea ut, pri detraxit perfecto in. Ipsum nihil sapientem cum id, has ex facete intellegam, est choro latine noluisse ex.
+
+Nec eu sumo idque omnes, te vis dolores omittantur. Facer homero assueverit eu sit. Te qui forensibus dissentias, in ignota eripuit vituperata sea. Ea vix fuisset vivendum, vide animal corpora an qui.
+
+Pro no adhuc iusto quaestio, sit ad omnis repudiare. His at albucius mediocrem delicatissimi. Volutpat iudicabit ius eu, pri id odio hinc, tale alia ancillae ex pri. Erat erant at his. Facer minim vivendum te eum, dicant noster apeirian pri ne.
+
+Et saepe accusata pericula mel, elit fuisset nominati ne per, ad instructior mediocritatem mea. Ut debet gloriatur sit. Voluptua adversarium vis ut. Eros fugit honestatis vel cu, senserit salutandi interpretaris id eum, cu vim meis illud labitur. Elitr quando sanctus vis an. Ius ludus abhorreant sadipscing in, vix an mutat doctus signiferumque, lucilius pertinacia ut vix.
+
+At usu velit aliquando, ius malis ubique noster ea. Quo ut partiendo sententiae quaerendum, est ad dolorum volumus. Molestiae temporibus sit ad, ne iudico quaeque moderatius eam, quo civibus adversarium ea. Sale illum dolor in quo, mea ad legendos salutatus efficiendi. Cibo prima munere ius ex, lorem nullam no sit.
+
+Iuvaret recusabo sententiae vel id, erat atqui ornatus ei ius. Ius ad amet offendit, ei vim enim esse ferri. Mei verterem quaestio ut. Sea sonet option scripta ex. Per dicit soleat ei, ea graece omnesque repudiare sea. Nibh regione ut vel.
+
+Vel vocent blandit scripserit ut, summo debet quo cu. Brute simul timeam ei mei, pro id ancillae neglegentur. Doming detracto per cu, explicari signiferumque id duo. Mel rebum ubique possit ne, eos ad erant evertitur, ut nec congue soleat.
+
+Ut unum omittam reprehendunt nec, cum sapientem sadipscing ut, brute ipsum debet vis ne. Prompta quaerendum comprehensam at eam, at enim clita intellegam sea, qui te albucius perpetua. Ornatus assentior dissentiet at nec, malorum pertinax at his. Vim lorem propriae pertinax no, te his nemore impetus minimum. Tation munere molestiae an eos, no vitae iriure sit.
+
+Ut mel prompta sapientem, at usu omnis nostro aliquid. Modus voluptua vel at. Pro dicta nulla possit in, eu iudicabit adipiscing pro. Est ea rebum instructior, expetenda similique ex eos.
+
+Sed nusquam offendit eu. Ut cetero insolens has. Nam et denique copiosae, eu munere malorum disputando mea, case placerat philosophia te mel. Brute nostrud accusamus vel in. Exerci aliquando eos ex. Saepe molestie vix ad, nec ancillae copiosae consectetuer at. -->
