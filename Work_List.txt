@@ -3,11 +3,12 @@ Tasks:
 - Use Bootstrap "class="nav nav-tabs nav-justified" to make the wikipedia top
     - This consists of " Read, View Source, View history, and then search
 
+- Gradient gray background [Done]
+- Left navigation bar
+
 - Start with getting in the necessary content (along with labelling)
 
 - Add in bootstrap formatting and spacing afterwards
-
-- Then work on Left navigation bar
 
 - Watch youtube tutorial and derek tutorial for tips on how to do things.
     Also use www3 schools as well
