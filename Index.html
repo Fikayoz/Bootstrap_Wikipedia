@@ -16,7 +16,31 @@
         body{
             background: linear-gradient(to bottom, #ffffff 0%, #dddddd 40%);
             background-repeat: no-repeat;
-            /* min-height: 100%; */
+        }
+        .main_block{
+            background: white;
+            border: 1px solid lightblue;
+        }
+        .welcome_box{
+            height: 120px;
+            border: 1px solid lightgray;
+            background:  #f3f3f3;
+        }
+        .left_articles_box{
+            border: 1px solid lime;
+            background: rgb(223, 255, 223);
+        }
+        .left_box_header{
+            border: 1px solid rgb(68, 141, 68);
+            background: rgb(171, 255, 171);
+        }
+        .right_articles_box{
+            border: 1px solid lightblue;
+            background: #c8ccff;
+        }
+        .right_box_header{
+            border: 1px solid darkblue;
+            background: lavender;
         }
        /* .logo{
             position: absolute;
@@ -65,7 +89,7 @@
 	</div>
 
     <!-- Main Content Block -->
-    <div class="col-lg-10 col-md-10 col-sm-10">
+    <div class="col-lg-10 col-md-10 col-sm-10 main_block">
 	
         <nav class="navbar">
             <div class="container-fluid">
@@ -77,16 +101,91 @@
                     <li class="active"><a href="#">Read</a></li>
                     <li class="active"><a href="#">View Source</a></li>
                     <li class="active"><a href="#">View History</a></li>
-    <!--===============================         A search bar needs to go here         =======================================-->
+    <!--==========     A search bar needs to go here     ============-->
                 </ul>
             </div>
         </nav>
 		
 		<!-- Welcome box -->
-		<div>
-			<h1>Welcome to <a href="#">Wikipedia,</a></h1>
-			<span>the free encyclopedia that anyone can edit</span> </br>
-			<span style="text-indent:50px;"> # articles in English </span>
+		<div class="container-fluid welcome_box">
+
+            <div class="col-lg-6 col-md-6">
+                <h3>Welcome to <a href="#">Wikipedia,</a></h3>
+                <p>the free encyclopedia that anyone can edit</p>
+                <div style="text-indent:50px;"> # articles in English </div>
+            </div>
+            
+            <div class="col-lg-6 col-md-6" style="-webkit-column-count: 3; -moz-column-count: 3;">
+                <ul class="nav">
+                    <li class="active"><a href="#">Society</a></li>
+                    <li class="active"><a href="#">Technology</a></li>
+                    <li class="active"><a href="#">All Portals</a></li>
+                    <li class="active"><a href="#">History</a></li>
+                    <li class="active"><a href="#">Mathematics</a></li>
+                    <li class="active"><a href="#">Science</a></li>
+                    <li class="active"><a href="#">Arts</a></li>
+                    <li class="active"><a href="#">Biography</a></li>
+                    <li class="active"><a href="#">Geography</a></li>
+                </ul>
+            </div> 
+
+            <!-- <div>
+                <div class="col-lg-2 col-md-2">
+                    <ul class="nav">
+                        <li class="active"><a href="#">Society</a></li>
+                        <li class="active"><a href="#">Technology</a></li>
+                        <li class="active"><a href="#">All Portals</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-lg-2 col-md-2">
+                    <ul class="nav">
+                        <li class="active"><a href="#">History</a></li>
+                        <li class="active"><a href="#">Mathematics</a></li>
+                        <li class="active"><a href="#">Science</a></li>
+                    </ul>
+                </div>
+                
+                <div class="col-lg-2 col-md-2">
+                    <ul class="nav">
+                        <li class="active"><a href="#">Arts</a></li>
+                        <li class="active"><a href="#">Biography</a></li>
+                        <li class="active"><a href="#">Geography</a></li>
+                    </ul>
+                </div> -->
+
+            </div>
+
+            <!-- Left Articles -->
+            <div class="col-lg-6 col-md-6 left_articles_box">
+                <div class="Container-fluid left_box_header">
+                    <b>From Today's Featured Article</b>
+                </div>
+
+                <div>Lorem ipsum dolor sit amet, eum veri lorem aperiri et, at sed labore dictas assueverit. Cu porro maiorum quo, at etiam everti mei, ius tempor populo an. His ad graece adipiscing neglegentur, quando volutpat sapientem ne duo. Nam in salutandi incorrupte. Summo euripidis mea ut, pri detraxit perfecto in. Ipsum nihil sapientem cum id, has ex facete intellegam, est choro latine noluisse ex.</div>
+
+                <div class="Container-fluid left_box_header">
+                        <b>Did you know...</b>
+                </div>
+
+                <div>More text</div>
+            </div>
+
+            <!-- Right Articles -->
+            <div class="col-lg-6 col-md-6 right_articles_box">
+                    <div class="Container-fluid right_box_header">
+                        <b>In The News</b>
+                    </div>
+    
+                    <div>Lots of text</div>
+    
+                    <div class="Container-fluid right_box_header">
+                            <b>On this day....</b>
+                    </div>
+    
+                    <div>More text</div>
+                </div>
+
 		</div>
     </div>
         
