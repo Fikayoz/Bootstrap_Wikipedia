@@ -21,6 +21,9 @@
             background: white;
             border: 1px solid lightblue;
         }
+        .main_block_padding * {
+            padding: 0px 5px 0px 5px;
+        }
         .welcome_box{
             height: 120px;
             border: 1px solid lightgray;
@@ -51,11 +54,11 @@
             background: #eb78e1;
         }
         .box_margins{
-            margin-top: 1px;
-            margin-right: 1px;
+            margin-top: 2px;
+            margin-right: 0px;
             /* width: 99%; */
-            margin-bottom: 1px;
-            margin-left: 1px; 
+            margin-bottom: 2px;
+            margin-left: 0px; 
         }
         .header_margins{
             margin-top: 7px;
@@ -110,7 +113,7 @@
 	</div>
 
     <!-- Main Content Block -->
-    <div class="col-lg-10 col-md-10 col-sm-10 main_block">
+    <div class="col-lg-10 col-md-10 col-sm-10 main_block main_block_padding" style="margins: 0px 0px 0px -5px;">
 	
         <nav class="navbar">
             <div class="container-fluid">
@@ -177,6 +180,8 @@
 
             </div>
 
+            <!-- One possible solution for adding a bit of whitespace to these boxes would be to hard-code
+            the pixel-sizes of the boxes (or at least the widths) to make them fit just right -->
             <div class="row">
                 <!-- Left Articles -->
                 <div class="col-lg-6 col-md-6 left_articles_box box_margins">
@@ -228,7 +233,22 @@
                 </div>
             </div>
 
-		</div>
+            <!-- Other areas of Wikipedia section. Heading should be underlined -->
+            <div class="row container_fluid">
+                <u><h3>Other areas of Wikipedia</h3></u>
+                <ul>
+                    <li><a href="#">Community portal</a></li>
+                    <li><a href="#">Help desk</a></li>
+                    <li><a href="#">Local embassy</a></li>
+                    <li><a href="#">Reference desk</a></li>
+                    <li><a href="#">Site news</a></li>
+                    <li><a href="#">Village pump</a></li>
+                    
+                </ul>
+            </div>
+
+        </div>
+
     </div>
         
 
