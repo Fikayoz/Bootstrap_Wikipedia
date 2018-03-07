@@ -9,11 +9,6 @@ body{
     background: white;
     border: 1px solid lightblue;
 }
-/* .main_block_padding{
-    padding: 10px;
-    -moz-box-sizing: border-box; 
-    box-sizing: border-box;
-} */
 .welcome_box{
     height: 120px;
     border: 1px solid lightgray;
@@ -67,6 +62,9 @@ body{
 .center{
     position: relative;
     left: 50%;
+}
+.row{
+    margin: 0;
 }
 /* .logo{
     position: absolute;
