@@ -56,6 +56,18 @@ body{
     margin-bottom: 7px;
     margin-left: 0px;
 }
+.three_columns{
+    -webkit-column-count: 3; 
+    -moz-column-count: 3;
+}
+.four_columns{
+    -webkit-column-count: 4; 
+    -moz-column-count: 4;
+}
+.center{
+    position: relative;
+    left: 50%;
+}
 /* .logo{
     position: absolute;
     left: 30px;
