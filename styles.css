@@ -66,6 +66,28 @@ body{
 .row{
     margin: 0;
 }
+.wiki_image{
+	height: 65%;
+	width: 12%;
+}
+.sis_proj_elem{
+	padding: 4px;
+}
+.sis_proj_table{
+	width: 100%;
+	margin: auto;
+	text-align: left;
+	background: transparent;
+}
+.sis_proj_td_img{
+	min-width: 50px;
+	text-align: center;
+	padding: 4px;
+}
+.sis_proj_td_elem{
+	width: 33%;
+	padding: 4px;
+}
 /* .logo{
     position: absolute;
     left: 30px;
